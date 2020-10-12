@@ -148,10 +148,10 @@ int main()
 { 
 	char str[SIZE], key[SIZE]; 
 
-	strcpy(key, "Monarchy"); 
+	strcpy(key, "Abcdefg"); 
 	printf("Key text: %s\n", key); 
 
-	strcpy(str, "instruments"); 
+	strcpy(str, "HelloWorld"); 
 	printf("Plain text: %s\n", str); 
 
 	encryptByPlayfairCipher(str, key); 
