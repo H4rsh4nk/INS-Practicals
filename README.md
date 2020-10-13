@@ -1,6 +1,3 @@
 # INS-Practicals
 
-This is created solely by Mr. Harshank Pathak for INS Practicals for college.
-hello
-
-
+This is created solely by Harshank Pathak for INS Practicals for college.
