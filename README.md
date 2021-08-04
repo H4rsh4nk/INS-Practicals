@@ -1,3 +1,3 @@
 # INS-Practicals
 
-College practicals. \__.__.__/
+College practicals \__.__.__/
