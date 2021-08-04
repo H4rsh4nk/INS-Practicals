@@ -1,3 +1,3 @@
 # INS-Practicals
 
-College practicals \__.__.__/
+College practicals just for fun (and pain).
